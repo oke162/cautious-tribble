@@ -36,4 +36,3 @@ jobs:
     timeout-minutes: 355  
     steps:
     - uses: actions/checkout@v1
-    - run: echo
